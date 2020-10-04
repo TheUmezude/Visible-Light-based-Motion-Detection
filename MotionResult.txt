@@ -1,0 +1,32 @@
+MOTION DETECTION UPDATE IS AS FOLLOWS:
+
+
+
+**** You selected 'Medium Sensitivty'. ****
+At time: 4 seconds, there was no motion detected!
+
+
+At time: 8 seconds, there was no motion detected!
+
+
+**** At time: 12 seconds, motion was detected! ****
+
+
+**** At time: 16 seconds, motion was detected! ****
+
+
+At time: 20 seconds, there was no motion detected!
+
+
+**** At time: 24 seconds, motion was detected! ****
+
+
+**** At time: 28 seconds, motion was detected! ****
+
+
+**** At time: 32 seconds, motion was detected! ****
+
+
+**** At time: 36 seconds, motion was detected! ****
+
+
